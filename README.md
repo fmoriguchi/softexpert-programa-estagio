@@ -10,7 +10,7 @@ Cada um deverá _forkear_ este repositório e fazer as modificações (push) em 
 
 ![fork.png](https://pichoster.net/images/2017/04/28/2031862c63ec135aa4d4a2fd1af2c6f2.png)
 
-Após isso, você será redirecionado para sua conta, com a cópia do repositória pronta para você usar. Feito isso, clique no botão "Clone or download" e copie o link:
+Após isso, você será redirecionado para sua conta, com a cópia do repositório pronta para você usar. Feito isso, clique no botão "Clone or download" e copie o link:
 
 ![clone.png](https://pichoster.net/images/2017/04/28/18fce3b38623bf01fe1cb091c26d21d9.png)
 

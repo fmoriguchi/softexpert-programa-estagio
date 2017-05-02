@@ -36,4 +36,4 @@ Se após a 5 tentativas, o usuário não conseguir acertar a combinação, você
 
 #### Importante!
 
-O diretório deste desafio (`desafio-senha`) deverá conter uma pasta chamada `src` com os arquivos fonte (.java) dentro. Fique à vontade para organizar a estrutura de pacotes que achar melhor.
+O diretório deste desafio (`02-desafio-senha`) deverá conter uma pasta chamada `src` com os arquivos fonte (.java) dentro. Fique à vontade para organizar a estrutura de pacotes que achar melhor.
