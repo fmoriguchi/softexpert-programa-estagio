@@ -9,6 +9,6 @@ Agora iremos dar um plus no programa. Você deverá melhorar a dica que o sistem
 >
 > O usuário digitou: 13245.
 >
-> Você deverá imprimir *32*#.
+> Você deverá imprimir \*32\*#.
 
 Perceba que “#” foi adicionada pois o número 5 existe, mas está na primeira posição. Ou seja, o número existe na senha, mas não na posição informada.
