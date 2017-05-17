@@ -7,7 +7,9 @@ Agora é hora de juntar todo o conhecimento adquirido com os 16 capítulos inici
 Criar um pequeno sistema de controle de biblioteca, incluindo um [CRUD](https://pt.wikipedia.org/wiki/CRUD) completo de livros. Inicialmente, este cadastro será salvo de duas formas diferentes, usando as classes/interfaces da API Collections:
 
 - Em memória
-- Em arquivo de chave-valor (propriedades)
+- _Em arquivo_
+    - Este item é opcional, e pode ser feito ao final do desafio. É importante aqui apenas separar a implementação das diferentes formas de salvar o registro (classes diferentes, que implementam a mesma interface).
+    - Se o fizer, fica a seu critério escolher em qual formato quer armazenar, podendo utilizar bibliotecas que auxiliem na serialização de objetos em XML/JSON por exemplo, ou até mesmo em arquivo binário.
 
 ### Domínio
 
