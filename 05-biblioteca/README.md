@@ -32,11 +32,11 @@ Lista de atributos:
     - **Categoria**
         - Código sequencial (gerado automaticamente)
         - Descrição
-        - **Autores** (um ou mais)
-            - Código sequencial (gerado automaticamente)
-            - Nome
-            - Data de nascimento
-            - Nacionalidade
+    - **Autores** (um ou mais)
+        - Código sequencial (gerado automaticamente)
+        - Nome
+        - Data de nascimento
+        - Nacionalidade
 
 ### Critérios de aceitação
 
