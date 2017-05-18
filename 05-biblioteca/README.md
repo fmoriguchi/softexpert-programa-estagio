@@ -41,7 +41,7 @@ Lista de atributos:
 ### Critérios de aceitação
 
 - Um livro deve ser salvo com pelo menos um autor, categoria, título e sua localização - lembrando que o código sequencial e o código de barras devem ser gerados pelo sistema e não podem se repetir entre os livros
-- A data de aquisição do livro não pode ser retroativa (antes do dia de atual)
+- A data de aquisição do livro não pode ser no futuro (após o dia atual)
 - A consulta de livros deverá vir sempre ordenada em ordem alfabética pelo título do livro, e poderá ser pesquisado por código, título, categoria ou nome do autor.
     - Sempre que buscar um livro, mostrar todos os seus atibutos, incluindo a categoria e o(s) autor(es)
 
